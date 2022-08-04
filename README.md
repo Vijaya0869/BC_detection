@@ -1,7 +1,6 @@
-![logo bc_detection](https://user-images.githubusercontent.com/109131720/182790612-aa69d125-5913-4fcb-b28f-fd03f77869ed.jpg)
-
 # Breast Cancer Detection using Digital Image Processing Techniques
 
+![logo bc_detection](https://user-images.githubusercontent.com/109131720/182790612-aa69d125-5913-4fcb-b28f-fd03f77869ed.jpg)
 
 Introduction :
 
