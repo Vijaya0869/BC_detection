@@ -2,7 +2,7 @@
 
 ![logo bc_detection](https://user-images.githubusercontent.com/109131720/182790612-aa69d125-5913-4fcb-b28f-fd03f77869ed.jpg)
 
-Introduction :
+#Introduction :
 
 Breast cancer is one of the major causes of death in women and it is difficult to prevent breast
 cancer as the main reasons underlying breast cancer remain unknown. Characteristics of breast
@@ -15,7 +15,7 @@ Digital image processing techniques such as image pre-processing, image segmenta
 extraction and image classification are applied in this project on the digital mammogram
 images to achieve early and automated detection of breast cancer.
 
-Methodolody:
+#Methodolody:
 
 Detection of breast cancer in its early stages using image processing techniques includes four
 parts. In the first part the digital images (mammograms) are pre-processed to remove any kind
