@@ -15,8 +15,17 @@ Digital image processing techniques such as image pre-processing, image segmenta
 extraction and image classification are applied in this project on the digital mammogram
 images to achieve early and automated detection of breast cancer.
 
-#Methodolody:
+# Datasets
+Train dataset - 5724 mammograms
+Test dataset -  1908 mammograms
+The datasets contains breast mammography images(224,224,3). With labels of:
+Benign :
+![tumor_i1](https://user-images.githubusercontent.com/109131720/185968183-ba3e9bd9-4ceb-469b-832b-4508847d9c6f.jpg)
 
+Malignant :
+![tumor_i2](https://user-images.githubusercontent.com/109131720/185968604-dad391d2-15a1-49dd-a528-a86f4f01f412.jpg)
+
+#Methodolody:
 Detection of breast cancer in its early stages using image processing techniques includes four
 parts. In the first part the digital images (mammograms) are pre-processed to remove any kind
 noise. Then in the second part the images undergo the segmentation process to enhance the
