@@ -2,9 +2,7 @@
 
 ![logo bc_detection](https://user-images.githubusercontent.com/109131720/182790612-aa69d125-5913-4fcb-b28f-fd03f77869ed.jpg)
 
-![logo1](https://user-images.githubusercontent.com/109131720/185969332-c7ca6591-b54c-4994-a72f-bca6ed7a173c.jpg)
-
-#Introduction :
+# Introduction :
 
 Breast cancer is one of the major causes of death in women and it is difficult to prevent breast
 cancer as the main reasons underlying breast cancer remain unknown. Characteristics of breast
