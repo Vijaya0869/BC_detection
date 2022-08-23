@@ -17,6 +17,8 @@ The datasets contains breast mammography images(224,224,3). With labels of:
 ![tumor_i2](https://user-images.githubusercontent.com/109131720/185968604-dad391d2-15a1-49dd-a528-a86f4f01f412.jpg)
 
 # Methodolody:
+
+![methodology](https://user-images.githubusercontent.com/109131720/186214997-338d7a0d-7d82-4af2-b96e-d59252718280.jpg)
 Detection of breast cancer in its early stages using image processing techniques includes four
 parts. In the first part the digital images (mammograms) are pre-processed to remove any kind
 noise. Then in the second part the images undergo the segmentation process to enhance the
